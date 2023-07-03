@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
-
+triste
 if (this.args.length != 1) {
     System.err.println("[ERROR] Must provide a userId")
     return
